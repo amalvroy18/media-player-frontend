@@ -1,0 +1,9 @@
+*{
+  font-family: "Rubik", sans-serif;
+}
+
+@media(max-width:600px){
+  .hide{
+    display: none;
+  }
+}
